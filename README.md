@@ -26,7 +26,7 @@ I also added Typescript and updated the refs functionality that was deprecated. 
 ### Running
 You must have JDK 11 installed, and npm and such.
 
-Client: ```cd src/client/; npm i; npm run start;```
+Client: ```cd client/; npm i; npm run start;```
 
 Server is run directly from the `main` function in `ReactAndSpringDataRestApp.java`.
 
