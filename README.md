@@ -4,7 +4,9 @@ A fullstack contacts creation app using React (with Typescript) and Spring, from
 ![](client.png)
 ![](spring.png)
 
-I added to the original course stuff by adding Typescript and updating the refs functionality that was deprecated. Here's a hint on what that looks like in `AddContacts.tsx`:
+I deleted a lot of the boilerplate. I did not spend time making it any prettier. 😉
+
+I also added Typescript and updated the refs functionality that was deprecated. Here's a hint on what that looks like in `AddContacts.tsx`:
 
 ```
     firstNameRef: RefObject<any>;
@@ -18,8 +20,6 @@ I added to the original course stuff by adding Typescript and updating the refs 
         this.emailRef = React.createRef();
     }
 ```
-
-I did not add to the course stuff by making it any prettier. 😉
 
 -----
 
