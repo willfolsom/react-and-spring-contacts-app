@@ -1,7 +1,7 @@
 # React and Spring Contact App
 A fullstack contacts creation app using React (with Typescript) and Spring, from the LinkedIn course "Building Full-Stack Apps with React and Spring". Uses Materialize UI for styling.
 
-![](client.png)
+![](client_screen.png)
 ![](spring.png)
 
 I deleted a lot of the boilerplate. I did not spend time making it any prettier. 😉
