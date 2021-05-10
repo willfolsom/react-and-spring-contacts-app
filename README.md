@@ -26,7 +26,7 @@ I did not add to the course stuff by making it any prettier. 😉
 ### Running
 You must have JDK 11 installed, and npm and such.
 
-Client: ```cd client; npm i; npm run start;```
+Client: ```cd src/client/; npm i; npm run start;```
 
 Server is run directly from the `main` function in `ReactAndSpringDataRestApp.java`.
 
