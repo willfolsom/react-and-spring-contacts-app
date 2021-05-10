@@ -19,7 +19,8 @@ I added to the original course stuff by adding Typescript and updating the refs 
 ### Running
 You must have JDK 11 installed, and npm and such.
 
-Client:
-```cd client; npm i; npm run start;```
+Client: ```cd client; npm i; npm run start;```
 
-Backend is run directly from the `main` function in `ReactAndSpringDataRestApp.java`.
+Server is run directly from the `main` function in `ReactAndSpringDataRestApp.java`.
+
+Data only persists for as long as the server is running.
