@@ -30,4 +30,6 @@ Client: ```cd src/client/; npm i; npm run start;```
 
 Server is run directly from the `main` function in `ReactAndSpringDataRestApp.java`.
 
+**If you have any issues, please open an issue.** I run the `main` function directly through VS Code by right clicking the function and saying `Run Java`, and I have several Java related plugins. I do not use IntelliJ or another IDE.
+
 Data only persists for as long as the server is running.
